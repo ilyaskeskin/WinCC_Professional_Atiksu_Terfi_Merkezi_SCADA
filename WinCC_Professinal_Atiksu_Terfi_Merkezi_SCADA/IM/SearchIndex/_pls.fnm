@@ -1,0 +1,22 @@
+þÿÿÿÜ###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsAcknowledgementModelAlarmAlertAcknowledgementIdAcknowledgedText
+ComingTextComingGoingText	GoingText	Alignment
+AlarmClassTriggerMode
+TriggerTag
+AlarmText1DisplaySuppressionMask###SearchFilterIds	CycleUnitStartingPointDayStartingPointHourStartingPointMinuteStartingPointMonthStartingPointSecond	CycleTimeCommentNumber	ShortNameWebLanguageStartScreen
+LogoutTime	BackColor	GridColorBackFillStyleBorderBackColorBorderColorBorderFlashingColorOffBorderFlashingColorOnBorderFlashingRateCornerStyle	EdgeStyleFillingDirectionFillPatternColorFlashingFlashingColorOffFlashingColorOnFlashingRateLineEndShapeStyleToolTipTextCaptionColumnScrollbarColumnTitleAlignmentControlDesignModeDefaultSortDefaultSort2DefaultSort2ColumnDisplayOptionsDoubleClickActionExportDelimiterExportDirectorynameExportFilenameExportFormatExportFormatGuidExportSelectionFontGridLineColorHitListDefaultSortHitListRelTimeFactorTypeLayer	LineColorMessageListTypeRowScrollbarRowTitleAlignmentRTPersistenceRTPersistenceTypeSelectedCellColorSelectedCellForeColorSelectedRowColorSelectedRowForeColorSelectedTitleColorSelectedTitleForeColorSelectionColoringSelectionRectSelectionRectColorSelectionType	ShowTitleSortSequenceStatusbarBackColorStatusbarFontStatusbarFontColor
+TableColorTableColor2TableForeColorTableForeColor2TimeBase
+TitleColorTitleDarkShadowColorTitleForeColorTitleGridLineColorTitleLightShadowColor	TitleSort
+TitleStyleToolbarAlignmentToolbarBackColor
+DateFormatSortDirectionSortDirectionInHitlist
+TimeFormatLabelTextTooltipTextHotkeyAdaptPictureBackFlashingColorOffBackFlashingColorOnBackFlashingRatePictureTransparentColor
+BlinkColor	BlinkMode
+BlinkSpeedFillColorModeFlip	ForeColorRotationColorUITypeEditorBitPositionUITypeEditorTagExpressionUITypeEditorStartvalueUITypeEditorEndvalue###UpdatableParentIdRangeFromToFontNameHorizontalAlignmentTextOrientationVerticalAlignment	DialColorNeedleBorderColorNeedleColorNeedleFillStyle
+TicksColorBorderBrightColor3DBorderShadeColor3DModePictureAlignmentStyleSettingsTextOff	FunctionsAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternUnitPropertyNameTagValueForPropertyTagPage
+InputValueProcessValueDataTypeHmiDataTypeTagAddressPanelInfoCodingPlcNameControllerTagLimitHighConstantLimitLowConstant
+StartValueSubstituteValueCode###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreBitPositionUserDefindedDynamicNameRangeIndirectTagConnectionUITypeEditorExpressionCaptionBackColorCaptionColorSelectBackColorSelectForeColorSeparatorBackColorSeparatorColorSeparatorLineEndShapeStyleSeparatorStyleTextOnTextListSelectedTextText0Text1Text2TimeStepBase	BeginTimeEndTime	RangeTypeSortTimeRangeBase
+SourceType
+TimeColumnUpdateCycleStorageMediaAcquisitionCycleAcquisitionModeAnalogProcessingMethodHysteresisModeLoggingCycleProcessTagTypeNameSupplyingTags
+ProcessTag
+DataSourceAddressAccessMode
+Connection

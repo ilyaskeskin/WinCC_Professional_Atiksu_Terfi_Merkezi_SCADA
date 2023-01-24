@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		D:\PLC Projelerim\Gölbaşı_Terfi\Terfi_Istasyonu_Scada\IM\HMI\R\0\D\HMI_K858
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\TAT-ILYASK\WinCC_Project_HMI_K858_6
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2023-01-24 08:58:37
+	</LastModifiedDate>
+	</RDP>
+</MCX>
